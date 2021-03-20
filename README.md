@@ -1,5 +1,5 @@
 # conflict-resolution
 
-### Update the Remote Readme File on GitHub
+## This is a subheading created on GitHub
 
-All of this content added to the README file has been added from my local Git repository.
+All of this content added to the README file has been added from my local Github repository.
